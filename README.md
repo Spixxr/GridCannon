@@ -1,2 +1,2 @@
 # Grid Cannon
-Grid cannon is a single player card game
+Grid cannon is a single player card game test
